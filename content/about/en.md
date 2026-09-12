@@ -31,7 +31,7 @@ A project initiated and stewarded by Tech Echo Collective. Its ownership and pro
 
 ### Member Project
 
-An independently created and maintained project belonging to a Tech Echo member. Tech Echo may host, present, or support it without acquiring authorship, ownership, or management rights. **Atlas Physicus and Illuminatio Physica are Member Projects created and maintained by Noah #001.**
+An independently created and maintained project belonging to a Tech Echo member. Tech Echo may host, present, or support it without acquiring authorship, ownership, or management rights. **Atlas Physicus and Illuminatio Physica are Member Projects created by Noah #001.** Atlas Physicus ended active development on 12 September 2026 and remains available as an archive; Illuminatio Physica remains independently maintained.
 
 ### Collaboration
 
@@ -55,7 +55,7 @@ Tech Echo uses GitHub identity for accounts and assigns every member a permanent
 
 ## Current work
 
-- [Atlas Physicus](https://atlas.techecho.org/) — an independently maintained member project mapping physics research ecosystems.
+- [Atlas Physicus](https://atlas.techecho.org/) — archived on 12 September 2026; the interactive map and 8 September 2026 research snapshot remain available, with no further data updates.
 - [Cradles of Civilization](https://github.com/Tech-Echo-Collective/cradles-of-civilization) — an original text strategy game developed as a Tech Echo project.
 - [Illuminatio Physica](https://illuminatio.techecho.org/) — an independently maintained interactive 3D map of physics concepts and learning paths.
 

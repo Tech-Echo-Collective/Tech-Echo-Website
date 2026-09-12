@@ -31,6 +31,7 @@ interface V02Copy {
   };
   common: {
     active: string;
+    archived: string;
     early_development: string;
     viewProject: string;
     viewRepository: string;
@@ -117,6 +118,7 @@ const en: V02Copy = {
   },
   common: {
     active: 'Active',
+    archived: 'Archived',
     early_development: 'Early Development',
     viewProject: 'View project',
     viewRepository: 'View repository',
@@ -203,10 +205,10 @@ const en: V02Copy = {
   projects: {
     'atlas-physicus': {
       name: 'Atlas Physicus',
-      summary: 'A living map of physics research ecosystems.',
+      summary: 'An archived interactive map of physics research ecosystems.',
       description:
-        'An open, interactive atlas for exploring the structure and evolution of physics research through scientific knowledge graphs.',
-      ownership: 'Created and maintained independently by Noah #001.',
+        'Active development ended on 12 September 2026. The interactive atlas and source remain available as a project archive, preserving the research snapshot captured on 8 September 2026. Data is no longer updated.',
+      ownership: 'Created independently by Noah #001.',
     },
     'cradles-of-civilization': {
       name: 'Cradles of Civilization',
@@ -255,6 +257,7 @@ const zh: V02Copy = {
   },
   common: {
     active: '进行中',
+    archived: '已归档',
     early_development: '早期开发',
     viewProject: '查看项目',
     viewRepository: '查看仓库',
@@ -334,9 +337,10 @@ const zh: V02Copy = {
   projects: {
     'atlas-physicus': {
       name: 'Atlas Physicus',
-      summary: '一幅持续生长的物理研究生态地图。',
-      description: '一个开放的交互式图谱，通过科学知识图谱探索物理研究结构与演化。',
-      ownership: '由 Noah #001 独立创建并维护。',
+      summary: '已归档的物理研究生态交互地图。',
+      description:
+        '已于 2026 年 9 月 12 日停止主动开发。交互地图与源码作为项目档案保留，展示 2026 年 9 月 8 日采集的研究数据快照；数据不再更新。',
+      ownership: '由 Noah #001 独立创建。',
     },
     'cradles-of-civilization': {
       name: '文明摇篮',
@@ -385,6 +389,7 @@ const fr: V02Copy = {
   },
   common: {
     active: 'Actif',
+    archived: 'Archivé',
     early_development: 'Développement initial',
     viewProject: 'Voir le projet',
     viewRepository: 'Voir le dépôt',
@@ -472,10 +477,10 @@ const fr: V02Copy = {
   projects: {
     'atlas-physicus': {
       name: 'Atlas Physicus',
-      summary: 'Une cartographie vivante des écosystèmes de recherche en physique.',
+      summary: 'Une carte interactive archivée des écosystèmes de recherche en physique.',
       description:
-        'Un atlas ouvert et interactif pour explorer la structure et l’évolution de la recherche en physique grâce aux graphes de connaissances scientifiques.',
-      ownership: 'Créé et maintenu indépendamment par Noah #001.',
+        'Le développement actif a pris fin le 12 septembre 2026. La carte interactive et le code source restent accessibles comme archives du projet, avec les données recueillies le 8 septembre 2026. Les données ne sont plus mises à jour.',
+      ownership: 'Créé indépendamment par Noah #001.',
     },
     'cradles-of-civilization': {
       name: 'Cradles of Civilization',
@@ -526,6 +531,7 @@ const es: V02Copy = {
   },
   common: {
     active: 'Activo',
+    archived: 'Archivado',
     early_development: 'Desarrollo inicial',
     viewProject: 'Ver proyecto',
     viewRepository: 'Ver repositorio',
@@ -613,10 +619,11 @@ const es: V02Copy = {
   projects: {
     'atlas-physicus': {
       name: 'Atlas Physicus',
-      summary: 'Un mapa vivo de los ecosistemas de investigación en física.',
+      summary:
+        'Un mapa interactivo archivado de los ecosistemas de investigación en física.',
       description:
-        'Un atlas abierto e interactivo para explorar la estructura y evolución de la investigación en física mediante grafos de conocimiento científico.',
-      ownership: 'Creado y mantenido de forma independiente por Noah #001.',
+        'El desarrollo activo terminó el 12 de septiembre de 2026. El mapa interactivo y el código fuente se conservan como archivo del proyecto, con los datos recopilados el 8 de septiembre de 2026. Los datos ya no se actualizan.',
+      ownership: 'Creado de forma independiente por Noah #001.',
     },
     'cradles-of-civilization': {
       name: 'Cradles of Civilization',

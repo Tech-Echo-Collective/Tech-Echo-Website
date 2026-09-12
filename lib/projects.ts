@@ -44,7 +44,7 @@ export interface ProjectDefinition {
     | 'theatrum-physicum';
   classification: ProjectClassification;
   family?: typeof PHYSICA_FAMILY.id;
-  status: 'active' | 'early_development';
+  status: 'active' | 'early_development' | 'archived';
   mark: string;
   repositoryUrl: string;
   websiteUrl?: string;
@@ -59,7 +59,7 @@ export const projects: readonly ProjectDefinition[] = [
     slug: 'atlas-physicus',
     family: PHYSICA_FAMILY.id,
     classification: 'member_project',
-    status: 'active',
+    status: 'archived',
     mark: '/assets/projects/atlas-physicus-mark.svg',
     repositoryUrl: 'https://github.com/Tech-Echo-Collective/atlas-physicus',
     websiteUrl: 'https://atlas.techecho.org/',
@@ -71,7 +71,7 @@ export const projects: readonly ProjectDefinition[] = [
       {
         githubUserId: '267296498',
         githubUsername: 'noahwalkerror-hash',
-        role: 'creator_maintainer',
+        role: 'creator',
       },
     ],
     featured: true,

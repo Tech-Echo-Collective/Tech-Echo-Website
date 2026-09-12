@@ -31,7 +31,7 @@ Tech Echo 关注理论与建造之间的空间：从数学到机制、从物理�
 
 ### 成员项目
 
-由 Tech Echo 成员独立创建并维护的项目。Tech Echo 可以托管、展示或支持它，但不会因此取得作者身份、所有权或管理权。**Atlas Physicus 与 Illuminatio Physica 均为 Noah #001 独立创建并维护的成员项目。**
+由 Tech Echo 成员独立创建并维护的项目。Tech Echo 可以托管、展示或支持它，但不会因此取得作者身份、所有权或管理权。**Atlas Physicus 与 Illuminatio Physica 均为 Noah #001 独立创建的成员项目。** Atlas Physicus 已于 2026 年 9 月 12 日停止主动开发并归档保留；Illuminatio Physica 继续独立维护。
 
 ### 协作项目
 
@@ -55,7 +55,7 @@ Tech Echo 使用 GitHub 身份建立账户，并为每位成员分配永久编�
 
 ## 当前工作
 
-- [Atlas Physicus](https://atlas.techecho.org/)——由成员独立维护、用于描绘物理研究生态的项目。
+- [Atlas Physicus](https://atlas.techecho.org/)——已于 2026 年 9 月 12 日归档；交互地图及 2026 年 9 月 8 日的研究数据快照保留可用，数据不再更新。
 - [文明的摇篮](https://github.com/Tech-Echo-Collective/cradles-of-civilization)——作为 Tech Echo 项目开发的原创文字策略游戏。
 - [Illuminatio Physica](https://illuminatio.techecho.org/)——由成员独立维护、用于探索物理概念与学习路径的交互式三维知识地图。
 

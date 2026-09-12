@@ -21,7 +21,7 @@ describe('project registry', () => {
     ).toBe(true);
   });
 
-  it('keeps Atlas Physicus as Noah #001’s independently maintained member project', () => {
+  it('keeps Atlas Physicus as Noah #001’s member project', () => {
     const physicsAtlas = getProject('atlas-physicus');
     expect(physicsAtlas).toMatchObject({
       classification: 'member_project',
@@ -30,7 +30,7 @@ describe('project registry', () => {
         {
           githubUserId: '267296498',
           githubUsername: 'noahwalkerror-hash',
-          role: 'creator_maintainer',
+          role: 'creator',
         },
       ],
     });

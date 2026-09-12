@@ -110,8 +110,7 @@ const en = {
   'project.cradlesText':
     'A visible game project and testbed for design, tooling, and public development.',
   'project.physics': 'Atlas Physicus',
-  'project.physicsText':
-    'An interactive atlas for exploring the evolution of physics research ecosystems.',
+  'project.physicsText': 'An archived interactive atlas of physics research ecosystems.',
   'project.labs': 'Labs',
   'project.labsText':
     'Small simulations, study utilities, AI tools, and research-adjacent prototypes.',
@@ -288,7 +287,7 @@ const zh: Dictionary = {
   'project.cradles': '文明的摇篮',
   'project.cradlesText': '一个公开的游戏项目，也是设计、工具与公共开发的试验场。',
   'project.physics': 'Atlas Physicus',
-  'project.physicsText': '用于探索物理研究生态演变的交互式图谱。',
+  'project.physicsText': '已归档的物理研究生态交互式图谱。',
   'project.labs': '实验室',
   'project.labsText': '小型模拟、学习工具、AI 工具与研究相关原型。',
   'project.view': '查看项目',
@@ -465,7 +464,7 @@ const fr: Dictionary = {
   'project.cradlesText':
     'Un projet de jeu public et un banc d’essai pour le design, les outils et le développement ouvert.',
   'project.physicsText':
-    'Un atlas interactif pour explorer l’évolution des écosystèmes de recherche en physique.',
+    'Un atlas interactif archivé des écosystèmes de recherche en physique.',
   'project.labs': 'Laboratoires',
   'project.labsText':
     'Petites simulations, outils d’étude, outils d’IA et prototypes liés à la recherche.',
@@ -649,7 +648,7 @@ const es: Dictionary = {
   'project.cradlesText':
     'Un proyecto de juego público y banco de pruebas para diseño, herramientas y desarrollo abierto.',
   'project.physicsText':
-    'Un atlas interactivo para explorar la evolución de los ecosistemas de investigación en física.',
+    'Un atlas interactivo archivado de los ecosistemas de investigación en física.',
   'project.labs': 'Laboratorios',
   'project.labsText':
     'Pequeñas simulaciones, herramientas de estudio, IA y prototipos relacionados con investigación.',
