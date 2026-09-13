@@ -10,7 +10,7 @@ const gameDirectory = path.join(
   'cradles-of-civilization',
 );
 
-describe('Cradles of Civilization public build', () => {
+describe('Cunae Civilitatis public build', () => {
   it('contains the complete browser runtime', () => {
     for (const filename of [
       'index.html',
@@ -22,6 +22,7 @@ describe('Cradles of Civilization public build', () => {
       'endings.js',
       'map-lab/index.html',
       'map-lab/map-data.js',
+      'map-lab/map-generator.js',
       'map-lab/map-model.js',
       'map-lab/map-lab.js',
       'map-lab/map-lab.css',
@@ -65,6 +66,7 @@ describe('Cradles of Civilization public build', () => {
       'endings.js',
       'balance-model.js',
       'map-lab/map-model.js',
+      'map-lab/map-generator.js',
       'game.js',
     ]);
     expect(scriptsIn('ending.html')).toEqual([
@@ -92,9 +94,9 @@ describe('Cradles of Civilization public build', () => {
       'url.searchParams.set("lang", I18N.isEnglish() ? "en" : "zh")',
     );
     expect(game).toContain('url.searchParams.set("lang", I18N.isEnglish() ? "en" : "zh")');
-    expect(index).toContain('20260905-ending-polish');
-    expect(index).toContain('src="game.js?v=20260905-economic-recovery"');
-    expect(ending).toContain('20260905-ending-polish');
+    expect(index).toContain('20260913-cunae-civilitatis');
+    expect(index).toContain('src="game.js?v=20260913-cunae-civilitatis"');
+    expect(ending).toContain('20260913-cunae-civilitatis');
     expect(index).not.toContain('← Tech Echo');
     expect(ending).not.toContain('← Tech Echo');
   });
@@ -109,6 +111,8 @@ describe('Cradles of Civilization public build', () => {
     );
     const endings = fs.readFileSync(path.join(gameDirectory, 'endings.js'), 'utf8');
 
+    expect(index).toContain('Cunae Civilitatis');
+    expect(localization).toContain('Cunae Civilitatis');
     expect(index).toContain('href="styles.css');
     expect(index).toContain('id="languageToggle"');
     expect(index).toContain('src="localization.js');

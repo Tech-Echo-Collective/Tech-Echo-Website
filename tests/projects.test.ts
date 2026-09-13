@@ -40,7 +40,7 @@ describe('project registry', () => {
     ]);
   });
 
-  it('publishes Cradles of Civilization as a playable Tech Echo project', () => {
+  it('publishes Cunae Civilitatis as a playable Tech Echo project', () => {
     expect(getProject('cradles-of-civilization')).toMatchObject({
       classification: 'tech_echo_project',
       playable: true,

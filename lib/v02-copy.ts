@@ -211,7 +211,7 @@ const en: V02Copy = {
       ownership: 'Created independently by Noah #001.',
     },
     'cradles-of-civilization': {
-      name: 'Cradles of Civilization',
+      name: 'Cunae Civilitatis',
       summary: 'An original text strategy game in active development.',
       description:
         'A public game project and testbed for worldbuilding, systems design, tooling, and transparent development.',
@@ -483,7 +483,7 @@ const fr: V02Copy = {
       ownership: 'Créé indépendamment par Noah #001.',
     },
     'cradles-of-civilization': {
-      name: 'Cradles of Civilization',
+      name: 'Cunae Civilitatis',
       summary: 'Un jeu de stratégie textuel original en développement actif.',
       description:
         'Un projet de jeu public et un terrain d’essai pour la création d’univers, la conception de systèmes, les outils et le développement transparent.',
@@ -626,7 +626,7 @@ const es: V02Copy = {
       ownership: 'Creado de forma independiente por Noah #001.',
     },
     'cradles-of-civilization': {
-      name: 'Cradles of Civilization',
+      name: 'Cunae Civilitatis',
       summary: 'Un juego original de estrategia textual en desarrollo activo.',
       description:
         'Un proyecto de juego público y banco de pruebas para narrativa, diseño de sistemas, herramientas y desarrollo transparente.',

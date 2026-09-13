@@ -56,7 +56,7 @@ Tech Echo utilise l’identité GitHub pour les comptes et attribue un numéro p
 ## Travaux actuels
 
 - [Atlas Physicus](https://atlas.techecho.org/) — archivé le 12 septembre 2026 ; la carte interactive et les données du 8 septembre 2026 restent accessibles, sans nouvelles mises à jour.
-- [Cradles of Civilization](https://github.com/Tech-Echo-Collective/cradles-of-civilization) — un jeu de stratégie textuel original développé comme projet Tech Echo.
+- [Cunae Civilitatis](https://github.com/Tech-Echo-Collective/cradles-of-civilization) — un jeu de stratégie textuel original développé comme projet Tech Echo.
 - [Illuminatio Physica](https://illuminatio.techecho.org/) — une carte 3D interactive des concepts physiques et des parcours d’apprentissage, maintenue indépendamment.
 
 Le collectif reste volontairement petit, jeune et expérimental. La priorité est de produire des réalisations concrètes, de les documenter clairement et d’ouvrir les voies de contribution avec discernement.

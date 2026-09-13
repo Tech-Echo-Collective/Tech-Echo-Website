@@ -106,7 +106,7 @@ const en = {
   'domain.forum': 'Forum',
   'domain.forumText':
     'Structured discussion, project proposals, learning notes, and shared references.',
-  'project.cradles': 'Cradles of Civilization',
+  'project.cradles': 'Cunae Civilitatis',
   'project.cradlesText':
     'A visible game project and testbed for design, tooling, and public development.',
   'project.physics': 'Atlas Physicus',
