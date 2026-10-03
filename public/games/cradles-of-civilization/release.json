@@ -1,9 +1,9 @@
 {
   "title": "Cunabula Civilitatis",
-  "version": "0.5.0-alpha.4",
-  "sourceCommit": "f81ab8beeaa912fa0d7a4168a7fe5e7efb8dd82f",
+  "version": "0.5.0-alpha.5",
+  "sourceCommit": "96b05e39429a500ddfce2b160466a87ed75b2d4f",
   "sourceDirty": false,
-  "generatedAt": "2026-10-03T07:59:37.348Z",
+  "generatedAt": "2026-10-03T08:27:58.422Z",
   "buildMode": "fresh-production-build",
   "interface": {
     "name": "CRADLES_GAME_ENGINE",
@@ -68,14 +68,14 @@
       "sha256": "1e2f2c81694a2d5d8b787e91de10d2df0cd5453a45470e5e6ff66961a94ff238"
     },
     {
-      "path": "assets/App-BDIdnAbG.js",
-      "bytes": 49235,
-      "sha256": "a64ad8fadf67890a659bf24b632f00308883c728180e44425c7df1abccd71bfa"
+      "path": "assets/App-D0hbkp3y.js",
+      "bytes": 55440,
+      "sha256": "e6c17f167fdb1f569639a1d83a492bf0175b6a2532378f4af632bc1e425ea600"
     },
     {
-      "path": "assets/App-Cr3lqq8k.css",
-      "bytes": 23232,
-      "sha256": "51fa3d5badcd9d3a72031ca0ce738fb1ed0045da67ec05388d157eb8291755c6"
+      "path": "assets/App-g8AgCExx.css",
+      "bytes": 23344,
+      "sha256": "d570eaa51a10294003f75f57054d0433c7f76c941910019ae8f0563c3e2191d0"
     },
     {
       "path": "assets/DemoApp-CDUOFXNN.css",
@@ -143,9 +143,9 @@
       "sha256": "856546f16e9c394670900070d53275860efb07c56f33266d49609f8bc3104596"
     },
     {
-      "path": "assets/index-kM9A-ARx.js",
+      "path": "assets/index-_bhstn09.js",
       "bytes": 183639,
-      "sha256": "e55a7f3c1433de74dd98707a583eed2ee12ed20bbc46064ce6f3b652ea75ec47"
+      "sha256": "c31ea089180ed0a40082c1df03c50d801c76045b84caeece97bf3cddc8ae8995"
     },
     {
       "path": "assets/jsx-runtime-Cltr0gcK.js",
@@ -185,7 +185,7 @@
     {
       "path": "index.html",
       "bytes": 1154,
-      "sha256": "53d317e0710ea8b31aa22203728bf9cff1c2c55862c6d8c19e05c1214201f380"
+      "sha256": "f51f25797aeb667893b992d208f92f7620bb065c85e89f022de3bd1551ed12a5"
     },
     {
       "path": "legacy.html",

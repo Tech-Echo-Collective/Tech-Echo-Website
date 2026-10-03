@@ -73,6 +73,13 @@ describe('Cunabula Civilitatis public build', () => {
         prefix,
       ).toBe(true);
     }
+    const appBundle = assets.find(
+      (name) => name.startsWith('App-') && name.endsWith('.js'),
+    );
+    expect(appBundle).toBeTruthy();
+    expect(
+      fs.readFileSync(path.join(gameDirectory, 'assets', appBundle!), 'utf8'),
+    ).toContain('立体地图');
     for (const filename of assets.filter((name) => name.endsWith('.js'))) {
       const source = fs.readFileSync(path.join(gameDirectory, 'assets', filename), 'utf8');
       for (const match of source.matchAll(
@@ -99,7 +106,7 @@ describe('Cunabula Civilitatis public build', () => {
       fs.readFileSync(path.join(gameDirectory, 'release.json'), 'utf8'),
     );
     expect(release.title).toBe('Cunabula Civilitatis');
-    expect(release.version).toBe('0.5.0-alpha.4');
+    expect(release.version).toBe('0.5.0-alpha.5');
     expect(release.sourceCommit).toMatch(/^[a-f0-9]{40}$/);
     expect(release.sourceDirty).toBe(false);
     expect(release.saveVersion).toBe(11);

@@ -17,7 +17,7 @@ Each remains a distinct project with its existing ownership and contributor attr
 
 ## Cunabula Civilitatis
 
-[文明摇篮 / Cunabula Civilitatis](https://techecho.org/games/cradles-of-civilization/) is the public desktop web strategy game. The `v0.5.0-alpha.4` release uses React and Canvas with the original game rules, seeded worlds, and twelve ending archives.
+[文明摇篮 / Cunabula Civilitatis](https://techecho.org/games/cradles-of-civilization/) is the public desktop web strategy game. The `v0.5.0-alpha.5` release uses React and Canvas with the original game rules, seeded worlds, lightweight 2.5D relief and flat map views, and twelve ending archives.
 
 The source of truth is [`cradles-of-civilization`](https://github.com/Tech-Echo-Collective/cradles-of-civilization). Run `npm run web:release` there, then synchronize `dist/web-release/` into `public/games/cradles-of-civilization/` before this website’s verification and deployment. The published `release.json` records the game version and source commit. The traditional bilingual interface remains available at `legacy.html`.
 

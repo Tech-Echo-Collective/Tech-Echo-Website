@@ -1,5 +1,13 @@
 # Changelog
 
+## Cunabula Civilitatis v0.5.0-alpha.5 — 2026-10-03
+
+- Added a lightweight 2.5D Canvas map with a tilted continent, coastal thickness, mountain faces, low hills, and canyons.
+- Added a relief/flat switch that preserves world position and relative zoom, respects the existing local view preference, and leaves game progress unchanged.
+- Aligned province and army selection, viewport culling, pointer zoom, panning, and cached terrain with the same projection.
+- Verified 16 gameplay checks, 10 relief/flat interaction checks, and all 12 ending restorations; retained idle rendering and the existing 4K canvas pixel limits.
+- Synchronized the game source manifest and all four website project descriptions.
+
 ## Cunabula Civilitatis v0.5.0-alpha.4 — 2026-10-03
 
 - Published the React and Canvas desktop game at the existing public game URL, with graphite, bronze, and parchment visuals.

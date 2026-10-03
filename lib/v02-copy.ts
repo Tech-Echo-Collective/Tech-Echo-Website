@@ -214,7 +214,7 @@ const en: V02Copy = {
       name: 'Cunabula Civilitatis',
       summary: 'An original desktop web strategy game with a randomly generated world.',
       description:
-        'Lead a civilization across a seeded 64-province continent. Make annual decisions, command armies, survive disasters, and preserve knowledge through civilization cycles. The React and Canvas interface includes twelve ending archives.',
+        'Lead a civilization across a seeded 64-province continent. Make annual decisions, command armies, survive disasters, and preserve knowledge through civilization cycles. The React and Canvas interface offers a lightweight 2.5D relief map, a flat view, and twelve ending archives.',
       ownership: 'A Tech Echo Collective project.',
     },
     'illuminatio-physica': {
@@ -346,7 +346,7 @@ const zh: V02Copy = {
       name: '文明摇篮',
       summary: '一款以随机大陆为舞台的原创桌面网页策略游戏。',
       description:
-        '文明摇篮 / Cunabula Civilitatis：在种子生成的 64 省大陆上，通过年度决议、军事部署、灾变与文明重启延续火种。React 与 Canvas 界面完整接入原有玩法，包含十二种结局档案。',
+        '文明摇篮 / Cunabula Civilitatis：在种子生成的 64 省大陆上，通过年度决议、军事部署、灾变与文明重启延续火种。React 与 Canvas 界面完整接入原有玩法，支持轻量立体地形与平面视角切换，包含十二种结局档案。',
       ownership: 'Tech Echo Collective 项目。',
     },
     'illuminatio-physica': {
@@ -487,7 +487,7 @@ const fr: V02Copy = {
       summary:
         'Un jeu de stratégie original pour navigateur de bureau, dans un monde généré aléatoirement.',
       description:
-        'Dirigez une civilisation sur un continent de 64 provinces généré à partir d’une graine. Prenez des décisions annuelles, commandez des armées et préservez le savoir face aux catastrophes. L’interface React et Canvas comprend douze archives de fin.',
+        'Dirigez une civilisation sur un continent de 64 provinces généré à partir d’une graine. Prenez des décisions annuelles, commandez des armées et préservez le savoir face aux catastrophes. L’interface React et Canvas propose une carte en relief 2.5D, une vue plane et douze archives de fin.',
       ownership: 'Un projet de Tech Echo Collective.',
     },
     'illuminatio-physica': {
@@ -631,7 +631,7 @@ const es: V02Copy = {
       summary:
         'Un juego original de estrategia para navegador de escritorio, con un mundo generado aleatoriamente.',
       description:
-        'Dirige una civilización en un continente de 64 provincias generado a partir de una semilla. Toma decisiones anuales, dirige ejércitos y conserva el conocimiento frente a las catástrofes. La interfaz React y Canvas incluye doce archivos de finales.',
+        'Dirige una civilización en un continente de 64 provincias generado a partir de una semilla. Toma decisiones anuales, dirige ejércitos y conserva el conocimiento frente a las catástrofes. La interfaz React y Canvas ofrece un mapa de relieve 2.5D, una vista plana y doce archivos de finales.',
       ownership: 'Un proyecto de Tech Echo Collective.',
     },
     'illuminatio-physica': {
