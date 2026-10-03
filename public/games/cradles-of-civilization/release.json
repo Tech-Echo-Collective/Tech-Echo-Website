@@ -1,0 +1,241 @@
+{
+  "title": "Cunabula Civilitatis",
+  "version": "0.5.0-alpha.4",
+  "sourceCommit": "f81ab8beeaa912fa0d7a4168a7fe5e7efb8dd82f",
+  "sourceDirty": false,
+  "generatedAt": "2026-10-03T07:59:37.348Z",
+  "buildMode": "fresh-production-build",
+  "interface": {
+    "name": "CRADLES_GAME_ENGINE",
+    "presentation": "react",
+    "packageVersion": "0.2.0"
+  },
+  "saveVersion": 11,
+  "mapGeneratorVersion": "seeded-continent-v1",
+  "legacyGeometryRevision": "map-lab-2026-09-04-b",
+  "entries": {
+    "game": "index.html",
+    "legacy": "legacy.html",
+    "legacyEnding": "ending.html",
+    "mapLab": "map-lab/index.html"
+  },
+  "packageAdjustments": [
+    "The three legacy ending return/challenge URLs point to legacy.html; source files are unchanged."
+  ],
+  "verification": {
+    "checkedReferences": 95,
+    "chunks": 15
+  },
+  "files": [
+    {
+      "path": "art/egypt.webp",
+      "bytes": 76420,
+      "sha256": "2666467f6c318a29da59f4ec881e1ff71d6b089fbad2293102fb355e8879111c"
+    },
+    {
+      "path": "art/governor-black-man.webp",
+      "bytes": 17466,
+      "sha256": "e37288d3c1b412e8da1efa60785a3e84c881598fe2b1623fc8b0d58cea74de5f"
+    },
+    {
+      "path": "art/governor-east-asian-man.webp",
+      "bytes": 18082,
+      "sha256": "f790e4b0050439f8b35601bd425fce5bfa8279925dd3241d87915298b2731bd5"
+    },
+    {
+      "path": "art/governor-trisolaran-listener.webp",
+      "bytes": 22272,
+      "sha256": "1707e6159f40bb00c780cd71161d47aa794e38aaa246df998a740bb34b26ce45"
+    },
+    {
+      "path": "art/governor-white-woman.webp",
+      "bytes": 16080,
+      "sha256": "e8a8d24e8b6630b054e4b2d9afd35895f343c7d7fb8eeca8be56c791d7f01e94"
+    },
+    {
+      "path": "art/indus.webp",
+      "bytes": 86010,
+      "sha256": "c223a1af2d23a4c20d7e265f6031fe3c1f7452b6003276d07c67dc54255a3ada"
+    },
+    {
+      "path": "art/mesopotamia.webp",
+      "bytes": 63202,
+      "sha256": "97e792c039a4abf00fbe3124faafafd3c82e2558e7d50ef1041124d51940e382"
+    },
+    {
+      "path": "art/yellow-river.webp",
+      "bytes": 83468,
+      "sha256": "1e2f2c81694a2d5d8b787e91de10d2df0cd5453a45470e5e6ff66961a94ff238"
+    },
+    {
+      "path": "assets/App-BDIdnAbG.js",
+      "bytes": 49235,
+      "sha256": "a64ad8fadf67890a659bf24b632f00308883c728180e44425c7df1abccd71bfa"
+    },
+    {
+      "path": "assets/App-Cr3lqq8k.css",
+      "bytes": 23232,
+      "sha256": "51fa3d5badcd9d3a72031ca0ce738fb1ed0045da67ec05388d157eb8291755c6"
+    },
+    {
+      "path": "assets/DemoApp-CDUOFXNN.css",
+      "bytes": 29063,
+      "sha256": "943205f75f02f65c06e19e76afac6b2dfa9ed731a6523f5805e59858ca803057"
+    },
+    {
+      "path": "assets/DemoApp-CdTIBMa1.js",
+      "bytes": 56037,
+      "sha256": "d08817752f7b10f9d8dcfc31612cc5666296abdc613ce0201026eaebd000c56b"
+    },
+    {
+      "path": "assets/EndingPage-5VKeOtra.js",
+      "bytes": 17606,
+      "sha256": "92d0b4a314dc1f617ddf595c3fb3a0ef211f70df151a96ce21ae942e47bec59a"
+    },
+    {
+      "path": "assets/EndingPage-C3tkUuaJ.css",
+      "bytes": 17635,
+      "sha256": "67b0be0232c24efac3fe35d24e636f992fd1da3adbd9b88b03d0ba6f263fc818"
+    },
+    {
+      "path": "assets/Icon-By2EYiDi.js",
+      "bytes": 2925,
+      "sha256": "92353afa01935736a4659c50a9fa11fcb921d835ea60b278313a147f7d0892b0"
+    },
+    {
+      "path": "assets/QuotedCopy-BV_kK1bu.css",
+      "bytes": 1407,
+      "sha256": "259a89d3796b2cb918700af3a17cccc1267fc1fb246d98444c8b88d696d5f4c5"
+    },
+    {
+      "path": "assets/QuotedCopy-CzHfZVa4.js",
+      "bytes": 2686,
+      "sha256": "13fa3c68fd2cc754cb027547a7466029bb93ed21be07d32a775be57ccfad6b20"
+    },
+    {
+      "path": "assets/game-xXFCV69M.js",
+      "bytes": 182085,
+      "sha256": "6cc557b9612164814100585b1c65b75a5cef1272ea62b5484f2176a7c1a7b421"
+    },
+    {
+      "path": "assets/governor-black-man.png",
+      "bytes": 350133,
+      "sha256": "0578f63c9094d52c5426ede9c4993772e6314f11c85b620e2b9d9b94b67d43f2"
+    },
+    {
+      "path": "assets/governor-east-asian-man.png",
+      "bytes": 359163,
+      "sha256": "a4315be7a8a617872341283902197d8d14919ce8f00e25986429bdd3c69e9f3f"
+    },
+    {
+      "path": "assets/governor-trisolaran-listener.png",
+      "bytes": 397820,
+      "sha256": "8999b2dd971dd74fbdbfbaa4d38231d3b3697e60a0a43ea769ab511f699c2093"
+    },
+    {
+      "path": "assets/governor-white-woman.png",
+      "bytes": 358384,
+      "sha256": "b9bb5ffb3d3ee8440cf1fd7132d4f95c14869a25fc57212f77d645879cb9712d"
+    },
+    {
+      "path": "assets/index-C1gJaCdF.css",
+      "bytes": 1229,
+      "sha256": "856546f16e9c394670900070d53275860efb07c56f33266d49609f8bc3104596"
+    },
+    {
+      "path": "assets/index-kM9A-ARx.js",
+      "bytes": 183639,
+      "sha256": "e55a7f3c1433de74dd98707a583eed2ee12ed20bbc46064ce6f3b652ea75ec47"
+    },
+    {
+      "path": "assets/jsx-runtime-Cltr0gcK.js",
+      "bytes": 8430,
+      "sha256": "e26f105e9234109963ded8d5eba4b903477be697960ecda8ea710c5151aab8c3"
+    },
+    {
+      "path": "assets/preload-helper-HclGiUj8.js",
+      "bytes": 1211,
+      "sha256": "bba5840eec0028b00854bcd58fba80694d02d41e98417656424c05b26db7120c"
+    },
+    {
+      "path": "assets/runtime-DuaWHFJf.js",
+      "bytes": 48421,
+      "sha256": "1b493d667c84220459334978e2dfeacc9539b8d407b816c51a3a29c40482b8a7"
+    },
+    {
+      "path": "balance-model.js",
+      "bytes": 5302,
+      "sha256": "cbd7ed9d6c49c1625718889b8ff29ac32836a5070d39c76cf51ff3b3ce68aab9"
+    },
+    {
+      "path": "ending.html",
+      "bytes": 23446,
+      "sha256": "c21e0f8bf4c99e36692f247dc13ce9754cdab020d83f88ba3d05d48425e537c1"
+    },
+    {
+      "path": "endings.js",
+      "bytes": 10695,
+      "sha256": "c5c7404d800bd9e10ed2b5b059b35d3c6e3aa86093b041e055d6f3e9556b8c3d"
+    },
+    {
+      "path": "game.js",
+      "bytes": 337340,
+      "sha256": "12bfa793cb56e5fdca96263e94cf4d7ed0f3ed4ebf2e594e868bc6d5e30da571"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1154,
+      "sha256": "53d317e0710ea8b31aa22203728bf9cff1c2c55862c6d8c19e05c1214201f380"
+    },
+    {
+      "path": "legacy.html",
+      "bytes": 41839,
+      "sha256": "681330ad5b5924b6200a7523171dbbcb8bf8ee7328d6059a180b40cbd6eaf146"
+    },
+    {
+      "path": "localization.js",
+      "bytes": 101987,
+      "sha256": "d6da0889c0817e72cdeb6d23a78c7ae1c7e72c50609b6973f4b7d0fd92f65f2a"
+    },
+    {
+      "path": "map-lab/index.html",
+      "bytes": 11913,
+      "sha256": "d1f1849aa2c8f4647c0d9634f46afc28e9f0975c460664654c118b5c49cdd170"
+    },
+    {
+      "path": "map-lab/map-data.js",
+      "bytes": 12514,
+      "sha256": "b3bca73d238d9abacfce033139b4251960a22c9ddcffc437e6d20010f5494bf6"
+    },
+    {
+      "path": "map-lab/map-generator.js",
+      "bytes": 18606,
+      "sha256": "62f65cd9a8d0f650b1ae1a93a56b1f56fd5b3f96f99ecb42901f7790d6109d9c"
+    },
+    {
+      "path": "map-lab/map-lab.css",
+      "bytes": 29771,
+      "sha256": "a0b5f50adf0ec8aa580f3c3c168b1101d06809cfa6a03ecc3ae15f7bdacf0b0d"
+    },
+    {
+      "path": "map-lab/map-lab.js",
+      "bytes": 71439,
+      "sha256": "0788ab04d27eceefd4f12804e25864d3a5864fde8657427b0f39511dc91431e2"
+    },
+    {
+      "path": "map-lab/map-model.js",
+      "bytes": 39517,
+      "sha256": "4585a4ec5dc66ac899d070e80322659aa38187731a1ecad9db82730ce228fa81"
+    },
+    {
+      "path": "map/land-polygons.json",
+      "bytes": 41581,
+      "sha256": "cfa36dc06fcdfd9479ee287374b210e2f70474c0e43579f582a8744919baa453"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 81542,
+      "sha256": "13452b7a127c99e212a57a0c3f8772e80417048d991fe8e16f4c51d8cc12e9a6"
+    }
+  ]
+}

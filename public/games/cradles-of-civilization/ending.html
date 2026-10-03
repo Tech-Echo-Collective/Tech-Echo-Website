@@ -11,7 +11,7 @@
   <body class="ending-body">
     <div class="site-tools">
       <button id="languageToggle" class="language-toggle" type="button" data-i18n-skip aria-label="切换到英文">EN</button>
-      <a class="site-return-link" href="https://techecho.org/" aria-label="返回 Tech Echo 官网 / Return to Tech Echo">Tech Echo</a>
+      <a class="site-return-link" href="https://techecho.org/" aria-label="返回 Tech Echo 官网 / Return to Tech Echo">← Tech Echo</a>
     </div>
     <main class="ending-shell" aria-label="文明摇篮终局">
       <section class="ending-scene">
@@ -241,7 +241,7 @@
       }
 
       function challengeUrl() {
-        const url = new URL("index.html", window.location.href);
+        const url = new URL("legacy.html", window.location.href);
         if (storedEnding?.seed) {
           url.searchParams.set("seed", storedEnding.seed);
         }
@@ -399,7 +399,7 @@
 
       function restartGame() {
         clearGame();
-        const url = new URL("index.html", window.location.href);
+        const url = new URL("legacy.html", window.location.href);
         url.searchParams.set("lang", I18N.isEnglish() ? "en" : "zh");
         window.location.href = url.href;
       }
@@ -413,7 +413,7 @@
         }
 
         clearGame();
-        const url = new URL("index.html", window.location.href);
+        const url = new URL("legacy.html", window.location.href);
         url.searchParams.set("seed", seedText);
         url.searchParams.set("lang", I18N.isEnglish() ? "en" : "zh");
         window.location.href = url.href;

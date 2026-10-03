@@ -211,10 +211,10 @@ const en: V02Copy = {
       ownership: 'Created independently by Noah #001.',
     },
     'cradles-of-civilization': {
-      name: 'Cunae Civilitatis',
-      summary: 'An original text strategy game in active development.',
+      name: 'Cunabula Civilitatis',
+      summary: 'An original desktop web strategy game with a randomly generated world.',
       description:
-        'A public game project and testbed for worldbuilding, systems design, tooling, and transparent development.',
+        'Lead a civilization across a seeded 64-province continent. Make annual decisions, command armies, survive disasters, and preserve knowledge through civilization cycles. The React and Canvas interface includes twelve ending archives.',
       ownership: 'A Tech Echo Collective project.',
     },
     'illuminatio-physica': {
@@ -344,9 +344,9 @@ const zh: V02Copy = {
     },
     'cradles-of-civilization': {
       name: '文明摇篮',
-      summary: '一款正在持续开发的原创文字策略游戏。',
+      summary: '一款以随机大陆为舞台的原创桌面网页策略游戏。',
       description:
-        '一个公开的游戏项目，也是世界观、系统设计、开发工具与透明制作流程的试验场。',
+        '文明摇篮 / Cunabula Civilitatis：在种子生成的 64 省大陆上，通过年度决议、军事部署、灾变与文明重启延续火种。React 与 Canvas 界面完整接入原有玩法，包含十二种结局档案。',
       ownership: 'Tech Echo Collective 项目。',
     },
     'illuminatio-physica': {
@@ -483,10 +483,11 @@ const fr: V02Copy = {
       ownership: 'Créé indépendamment par Noah #001.',
     },
     'cradles-of-civilization': {
-      name: 'Cunae Civilitatis',
-      summary: 'Un jeu de stratégie textuel original en développement actif.',
+      name: 'Cunabula Civilitatis',
+      summary:
+        'Un jeu de stratégie original pour navigateur de bureau, dans un monde généré aléatoirement.',
       description:
-        'Un projet de jeu public et un terrain d’essai pour la création d’univers, la conception de systèmes, les outils et le développement transparent.',
+        'Dirigez une civilisation sur un continent de 64 provinces généré à partir d’une graine. Prenez des décisions annuelles, commandez des armées et préservez le savoir face aux catastrophes. L’interface React et Canvas comprend douze archives de fin.',
       ownership: 'Un projet de Tech Echo Collective.',
     },
     'illuminatio-physica': {
@@ -626,10 +627,11 @@ const es: V02Copy = {
       ownership: 'Creado de forma independiente por Noah #001.',
     },
     'cradles-of-civilization': {
-      name: 'Cunae Civilitatis',
-      summary: 'Un juego original de estrategia textual en desarrollo activo.',
+      name: 'Cunabula Civilitatis',
+      summary:
+        'Un juego original de estrategia para navegador de escritorio, con un mundo generado aleatoriamente.',
       description:
-        'Un proyecto de juego público y banco de pruebas para narrativa, diseño de sistemas, herramientas y desarrollo transparente.',
+        'Dirige una civilización en un continente de 64 provincias generado a partir de una semilla. Toma decisiones anuales, dirige ejércitos y conserva el conocimiento frente a las catástrofes. La interfaz React y Canvas incluye doce archivos de finales.',
       ownership: 'Un proyecto de Tech Echo Collective.',
     },
     'illuminatio-physica': {

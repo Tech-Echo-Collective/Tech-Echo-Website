@@ -1,5 +1,13 @@
 # Changelog
 
+## Cunabula Civilitatis v0.5.0-alpha.4 — 2026-10-03
+
+- Published the React and Canvas desktop game at the existing public game URL, with graphite, bronze, and parchment visuals.
+- Integrated annual decisions, military orders, seeded 64-province worlds, disasters, civilization restart, and twelve ending archives with the original rules and saves.
+- Verified legal fresh-game routes, deterministic replay, and final-save recovery for all twelve endings.
+- Updated project descriptions in all four website locales. Preserved the traditional bilingual interface at `legacy.html` and the independent map laboratory.
+- Added a repeatable release build and source/version manifest for the synchronized game copy.
+
 ## v0.2.4 — 2026-09-04
 
 - Added Illuminatio Physica as Noah #001’s independently maintained Member Project.
