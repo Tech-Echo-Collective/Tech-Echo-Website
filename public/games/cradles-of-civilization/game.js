@@ -465,7 +465,7 @@ const ACTIONS = {
     delta() {
       return policyDelta("crownAuthority");
     },
-    text: "君王通过他的建筑而使自己不朽。\n——腓特烈·奥古斯特一世，1728年",
+    text: "路易必须死，因为共和必须生！\n——罗伯斯庇尔，1729年",
     chronicleText: "强化王权让军队更像国家的手臂，而不是地方领主的私产。",
     effect() {
       applyPolicyActionEffect("crownAuthority");

@@ -1,9 +1,9 @@
 {
   "title": "Cunabula Civilitatis",
   "version": "0.5.0-alpha.5",
-  "sourceCommit": "96b05e39429a500ddfce2b160466a87ed75b2d4f",
+  "sourceCommit": "b18f41cd2947a47746855c88796f572d8cdedaaf",
   "sourceDirty": false,
-  "generatedAt": "2026-10-03T08:27:58.422Z",
+  "generatedAt": "2026-10-27T01:30:52.585Z",
   "buildMode": "fresh-production-build",
   "interface": {
     "name": "CRADLES_GAME_ENGINE",
@@ -113,9 +113,9 @@
       "sha256": "13fa3c68fd2cc754cb027547a7466029bb93ed21be07d32a775be57ccfad6b20"
     },
     {
-      "path": "assets/game-xXFCV69M.js",
-      "bytes": 182085,
-      "sha256": "6cc557b9612164814100585b1c65b75a5cef1272ea62b5484f2176a7c1a7b421"
+      "path": "assets/game-ClaQTpHB.js",
+      "bytes": 182068,
+      "sha256": "13526bc5f91606af88bb41601b4822a388406c4ec5e5a35159c0b23eb622b6a8"
     },
     {
       "path": "assets/governor-black-man.png",
@@ -138,14 +138,14 @@
       "sha256": "b9bb5ffb3d3ee8440cf1fd7132d4f95c14869a25fc57212f77d645879cb9712d"
     },
     {
+      "path": "assets/index-BHiAtuVo.js",
+      "bytes": 183639,
+      "sha256": "f1bc0037d767c6f3be3ab5c34d3b1cc83e42c5b679c27a0c7193a94c802671e9"
+    },
+    {
       "path": "assets/index-C1gJaCdF.css",
       "bytes": 1229,
       "sha256": "856546f16e9c394670900070d53275860efb07c56f33266d49609f8bc3104596"
-    },
-    {
-      "path": "assets/index-_bhstn09.js",
-      "bytes": 183639,
-      "sha256": "c31ea089180ed0a40082c1df03c50d801c76045b84caeece97bf3cddc8ae8995"
     },
     {
       "path": "assets/jsx-runtime-Cltr0gcK.js",
@@ -158,9 +158,9 @@
       "sha256": "bba5840eec0028b00854bcd58fba80694d02d41e98417656424c05b26db7120c"
     },
     {
-      "path": "assets/runtime-DuaWHFJf.js",
+      "path": "assets/runtime-DOH61MgO.js",
       "bytes": 48421,
-      "sha256": "1b493d667c84220459334978e2dfeacc9539b8d407b816c51a3a29c40482b8a7"
+      "sha256": "1934a46769daa310b0c029813505a825c4668e5d1561515f084877979bff6d52"
     },
     {
       "path": "balance-model.js",
@@ -179,23 +179,23 @@
     },
     {
       "path": "game.js",
-      "bytes": 337340,
-      "sha256": "12bfa793cb56e5fdca96263e94cf4d7ed0f3ed4ebf2e594e868bc6d5e30da571"
+      "bytes": 337323,
+      "sha256": "9d9a7460aa83da843b267518eb0b4a1b822ceaafd28cf5a6210e653ec3adf327"
     },
     {
       "path": "index.html",
       "bytes": 1154,
-      "sha256": "f51f25797aeb667893b992d208f92f7620bb065c85e89f022de3bd1551ed12a5"
+      "sha256": "8cb84ca3d201ac7ff89f9b27c18b185ae04d68f979e97302162ae072aab505cc"
     },
     {
       "path": "legacy.html",
-      "bytes": 41839,
-      "sha256": "681330ad5b5924b6200a7523171dbbcb8bf8ee7328d6059a180b40cbd6eaf146"
+      "bytes": 41880,
+      "sha256": "3b61ccdc80716fe6888e7abb8eabe1a3414270506904d16de56fb750add3b00c"
     },
     {
       "path": "localization.js",
-      "bytes": 101987,
-      "sha256": "d6da0889c0817e72cdeb6d23a78c7ae1c7e72c50609b6973f4b7d0fd92f65f2a"
+      "bytes": 102198,
+      "sha256": "de885d4cd60ec80f3e5be18c5c0c136eefee83848d7f43c7025fd96af8b8e378"
     },
     {
       "path": "map-lab/index.html",
